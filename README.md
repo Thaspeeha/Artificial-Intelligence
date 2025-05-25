@@ -45,3 +45,7 @@ This project explores foundational concepts in **Artificial Intelligence**, incl
 | Breadth-First | Explores all nodes level-by-level | ✅ | ✅ |
 | Uniform-Cost | Expands least-cost node | ✅ | ✅ |
 | Iterative Deepening | DFS with increasing depth | ✅ | ✅ |
+
+## 📝 License
+
+This project was developed for educational purposes and is not intended for commercial deployment without further development.
