@@ -1,7 +1,6 @@
 # Artificial-Intelligence
 
-This project explores foundational concepts in **Artificial Intelligence**, including **generative AI**, **PEAS (Performance, Environment, Actuators, Sensors)** for intelligent agents, and **search algorithms**. A key focus was on analyzing and implementing search strategies for a smart home assistant.
-
+This project explores foundational concepts in **Artificial Intelligence**, including **generative AI**, **PEAS (Performance, Environment, Actuators, Sensors)** for intelligent agents, and **search algorithms**. A key focus was on researching Generative AI, analyzing PEAS framework for a smart home assistant and implementing search strategies in an algorithm.
 
 
 ## 🧠 Project Overview
