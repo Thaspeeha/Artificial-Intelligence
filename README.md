@@ -6,6 +6,9 @@ This project explores foundational concepts in **Artificial Intelligence**, incl
 ## 🧠 Project Overview
 
 - 🔍 Researched **Generative AI** and its applications in intelligent systems
+
+[![Watch the video](https://img.youtube.com/vi/<https://youtu.be/jUT7mxVGF6M>/0.jpg)](https://www.youtube.com/watch?v=<https://youtu.be/jUT7mxVGF6M>)
+
 - 🏠 Applied the **PEAS framework** to model a Smart Home Assistant agent
 - 🧮 Analyzed classic **search algorithms**:
   - Depth-First Search (DFS)
