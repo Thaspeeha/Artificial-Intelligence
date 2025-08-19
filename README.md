@@ -7,7 +7,7 @@ This project explores foundational concepts in **Artificial Intelligence**, incl
 
 - 🔍 Researched **Generative AI** and its applications in intelligent systems
 
-Watch the video ->
+Watch my video (Click the image below)
 
 [![Watch the video](https://img.youtube.com/vi/jUT7mxVGF6M/0.jpg)](https://www.youtube.com/watch?v=jUT7mxVGF6M)
 
