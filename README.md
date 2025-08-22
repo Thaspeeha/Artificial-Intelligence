@@ -45,7 +45,7 @@ Watch my video (Click the image below)
 ### 🔹 Search Algorithm Analysis
 | Algorithm | Description | Optimal | Complete |
 |----------|-------------|---------|----------|
-| Depth-First | Explores depth-wise first | ❌ | ❌ |
+| Depth-First | Explores depth-wise first | ✅ | ✅ |
 | Breadth-First | Explores all nodes level-by-level | ✅ | ✅ |
 | Uniform-Cost | Expands least-cost node | ✅ | ✅ |
 | Iterative Deepening | DFS with increasing depth | ✅ | ✅ |
