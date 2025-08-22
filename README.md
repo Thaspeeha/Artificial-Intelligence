@@ -26,7 +26,7 @@ Watch my video (Click the image below)
 - **Language:** Python  
 - **IDE:** Visual Studio Code  
 - **Libraries:** None (pure Python implementation)  
-- **Platform:** Git & GitHub for version control  
+- **Platform:** Git & GitHub for the project 
 
 
 
